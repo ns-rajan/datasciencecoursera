@@ -1,4 +1,5 @@
-datasciencecoursera
-===================
+*h2 Data Science Specialization
 
-For Data Scientist's Toolbox - Coursera
+* Uses R
+* Nine courses
+* Goes from raw data to data products
